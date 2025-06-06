@@ -70,11 +70,9 @@ Dataset sourced from [Netflix Dataset on Kaggle](https://www.kaggle.com/shivamb/
 
 ---
 
-## 🚀 How to Run
+## 🧠 Final Thoughts
 
-1. Clone this repository  
-2. Open the notebook `Netflix_EDA.ipynb`  
-3. Run the notebook cells sequentially to follow the analysis
+This project was a foundational step in my data analytics journey, where the goal wasn’t complexity but clarity. By working with a familiar dataset like Netflix, I focused on deepening my understanding of essential tools and EDA techniques. Every chart, filter, and insight was an opportunity to build confidence and intuition in working with real-world data. I’m excited to continue learning and growing — one dataset at a time.
 
 ---
 
